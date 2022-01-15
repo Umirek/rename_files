@@ -1,4 +1,4 @@
-# Ron Schwietzer
+# Umirek
 # 05.01.2022
 # rename file names so it fit´s into ondrive's name system
 import os
